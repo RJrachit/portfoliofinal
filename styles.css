@@ -1,0 +1,35 @@
+body{
+    background: black !important; 
+    color: #e0e0e0 !important;
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+h1,h2,h3,h4{
+    
+    font-family: 'Fredericka the Great', cursive !important;
+}
+#gocontact i{
+    color: white;
+}
+
+#rachit{
+    position:fixed;
+    top: 10px;
+    left: 10px;
+    height: 40px;
+    font-size: larger;
+    width: 175px;
+    
+    text-align: center;
+    background: inherit;
+    mix-blend-mode:exclusion;
+    
+    filter: invert(1);
+    
+}
+#rachit a{
+    text-decoration: none;
+    vertical-align: middle;
+    color: inherit;
+    mix-blend-mode:normal;
+}
+

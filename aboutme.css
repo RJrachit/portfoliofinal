@@ -1,0 +1,42 @@
+.text-align{
+    text-align: center;
+}
+#abtme{
+    background-image: url('./abtme.png');
+    background-size: contain;
+}
+.align-middle{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.desc-back{
+    /* background: #fff5fd; */
+    color: black;
+}
+.about-me{
+    /* background-color: #ff8b1f; */
+    background:rgb(0, 0, 0,0.1);
+}
+#a{
+    text-align: end;
+    display: block;
+    padding-right: 25px;
+    
+    /* color:white; */
+    color: #131313;
+}
+#a h1{
+    font-size: 10vw;
+}
+.fab{
+    margin: 25px;
+    font-size: 30px;
+}
+.description{
+    /* background-color: green; */
+    padding-top: 40px;
+    /* padding-bottom: 10px; */
+    width: 75%;
+}

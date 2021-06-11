@@ -1,0 +1,44 @@
+#photoshop{
+    /* height: 80%; */
+    /* background: red; */
+}
+
+#ps-h1{
+    position: relative;
+    font-size: 110px;
+    /* background: red; */
+}
+#ps-h3{
+    /* position:relative; */
+    /* top:100%; */
+}
+.carousel-img{
+    width: 100%;
+}
+.car{
+    position: relative;
+    /* top: -140px; */
+    opacity: 0.3;
+    transition: 1s;
+}
+.car:hover{
+    opacity: 0.75;
+    transition: 1.5s;
+    
+}
+.carousel-item{
+    /* width: 50% !important; */
+}
+#ps-h2{
+    font-size: 110px;
+    position: absolute;
+    width: 400px;
+    /* background: green; */
+    /* border-left: solid red 50px; */
+    text-align: center;
+    overflow: hidden;
+    right:-130px;
+    overflow: hidden;
+    /* -ms-transform: rotateZ(90deg); */
+    transform: rotate(270deg);
+}
